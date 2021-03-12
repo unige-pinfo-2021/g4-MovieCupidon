@@ -1,0 +1,6 @@
+[submodule "MovieCupidon-backend"]
+	path = MovieCupidon-backend
+	url = git@gitlab.unige.ch:projet-informatique-2021/MovieCupidon-backend.git
+[submodule "moviecupidon-frontend"]
+	path = moviecupidon-frontend
+	url = git@gitlab.unige.ch:projet-informatique-2021/moviecupidon-frontend.git
